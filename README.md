@@ -29,3 +29,22 @@ Beniche-pawned is a Python-based GUI application that allows users to search for
    ```bash
    git clone https://github.com/your-username/Beniche-pawned.git
    cd Beniche-pawned
+2.run the application :
+
+    python beniche_pawned.py
+3.usage :
+
+    Enter a Search Query: Type your query (e.g., an email or domain) into the search box.
+
+    Search: Click the "Search" button to fetch results.
+
+    View Results: Results will appear in the listbox. If your query is found in the results, they will be highlighted in red, and a security alert will be displayed.
+
+    Copy or Save Results: Use the "Copy to Clipboard" or "Save Results" buttons to manage the results.
+
+    Toggle Theme: Switch between dark and light modes using the "Toggle Theme" button.
+
+    Clear Results: Use the "Clear Results" button to reset the interface.
+
+   4.Screenshots
+   ![Screenshot](beniche-pawned.png)
