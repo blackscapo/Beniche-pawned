@@ -46,5 +46,5 @@ Beniche-pawned is a Python-based GUI application that allows users to search for
 
     Clear Results: Use the "Clear Results" button to reset the interface.
 
-   4.Screenshots
+   
    ![Screenshot](beniche-pawned.png)
